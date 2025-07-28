@@ -2,7 +2,7 @@
 
 ## Aplicación de Consola en Java
 
-Este proyecto es una pequeña aplicación de consola escrita en **Java puro (sin frameworks)**, que solicita al usuario su nombre y lo guarda en un archivo de texto (`nombres.txt`). 
+Este proyecto es una pequeña aplicación de consola escrita en **Java puro (sin frameworks)**, que solicita al usuario su nombre y lo guarda en un archivo de texto (`nombresTarea.txt`). 
 
 
 ## Uso del programa
